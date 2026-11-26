@@ -1,0 +1,10 @@
+{
+  "description": "Manufacturing teams use this MES app to access plan management tools and organize production schedules efficiently.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
